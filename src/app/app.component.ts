@@ -9,7 +9,7 @@ import { User } from './Models/user';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'CRM_TEAM1';
+  title = 'Mission Test';
   constructor(private router:Router){}
   onLogout()
   {
